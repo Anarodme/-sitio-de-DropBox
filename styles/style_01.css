@@ -1,0 +1,81 @@
+/* CSS Document */
+body{
+    background-image:url(../images/nube3.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-top: 80px;
+}
+
+
+.logueo{
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logueo label{
+    width: 100px;
+    display: block;
+    float:left;
+}
+
+.datos1{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.datos1 label{
+    width: 100px;
+    display: block;
+    float:left;
+}
+
+.datos2{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.datos2 label{
+    width: 100px;
+    display: block;
+    float:left;
+}
+
+.datos3{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.datos3 label{
+    width: 150px;
+    display: block;
+    float:left;
+}
+.iconos{
+    width: 40px;
+    height: 60px;
+    float: left;
+}
+
+.tamanioIco{
+    width: 100%;
+    height: 100%;
+}
+
+.nombres{
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.btnAgregar{
+    border: solid black 1px;
+    background-color: aqua;
+    width: 130px;
+    height: 30px;
+    display: grid;
+    place-content: center;
+}
